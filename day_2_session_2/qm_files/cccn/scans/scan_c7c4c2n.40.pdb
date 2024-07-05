@@ -1,0 +1,18 @@
+ATOM      1  C1 TEST C   1      -0.439  -0.481  -2.035
+ATOM      2  C2 TEST C   1       0.405  -0.004  -1.015
+ATOM      3  C3 TEST C   1      -1.669  -1.079  -1.724
+ATOM      4  C4 TEST C   1       0.028  -0.139   0.346
+ATOM      5  C5 TEST C   1      -2.025  -1.272  -0.377
+ATOM      6  C6 TEST C   1      -1.203  -0.764   0.639
+ATOM      7  H1 TEST C   1      -2.968  -1.765  -0.123
+ATOM      8  H2 TEST C   1      -1.514  -0.795   1.687
+ATOM      9  C7 TEST C   1       0.544   0.797   1.433
+ATOM     10  H3 TEST C   1      -0.116  -0.395  -3.079
+ATOM     11   N TEST C   1       1.785   0.332  -1.283
+ATOM     12  O1 TEST C   1       0.002   0.872   2.517
+ATOM     13  O2 TEST C   1       1.597   1.565   1.108
+ATOM     14  H4 TEST C   1       1.882   1.306   0.195
+ATOM     15  H5 TEST C   1      -2.324  -1.432  -2.527
+ATOM     16  H6 TEST C   1       1.912   0.630  -2.253
+ATOM     17  H7 TEST C   1       2.360  -0.502  -1.148
+END

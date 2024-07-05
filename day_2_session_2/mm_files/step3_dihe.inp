@@ -1,0 +1,66 @@
+* icomse boise
+*
+
+dimens chsize 5000000 maxres 3000000
+bomlev -5
+wrnlev -5
+ioformat ext
+
+! read the cgenff parameters
+open  unit 11 read card name "./toppar/top_all36_cgenff.rtf"
+read  unit 11 rtf card
+close unit 11
+
+open  unit 20 read card name "./toppar/par_all36_cgenff.prm"
+read  unit 20 para card flex
+close unit 20
+
+! read the str file that was generated
+stream "./mol.str"
+
+set phi -70
+open unit 20 write card name "scan_c7c4c2n_mm.ener"
+
+label dihescan
+
+! generate the initial structure
+set res TEST
+read sequence card
+* sequence for model
+*
+ 1
+ @res
+
+generate @res first none last none setup warn
+
+open  unit 10 read card name ../qm_files/cccn/scans/scan_c7c4c2n.@phi.pdb
+read  unit 10 coord pdb append
+close unit 10
+
+ic generate
+ic fill
+ic build
+print ic
+
+cons dihe 1 c7 1 c4 1 c2 1 n harm force 9999 main set
+
+mini sd   nstep 1000 nprint 100 
+mini abnr nstep 10000 nprint 100 tolgrd 0.00001
+
+nbonds atom vatom vfswitch bycb -
+   ctonnb 10.0 ctofnb 12.0 cutnb 16.0 cutim 16.0 -
+   inbfrq -1 imgfrq -1 wmin 1.0 cdie eps 1.0 -
+
+energy
+
+quick 1 c7 1 c4 1 c2 1 n
+write title unit 20
+*@phi ?ener
+*
+
+incr phi by 10
+delete atoms sele resn @res end
+if @phi .le. 70 goto dihescan
+close unit 20
+
+stop
