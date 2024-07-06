@@ -1,0 +1,6 @@
+Files for running and analyzing a rough melting study of the phase coexistence of the Lennard-Jones fluid.
+
+Run the simulations by using the command 
+#SBATCH gpu.slurm
+
+Do this only once! GPU resources are not cheap. If you are having trouble, example results are provided.
