@@ -1,0 +1,42 @@
+name: icomse7th
+channels:
+  - conda-forge 
+dependencies:
+  - python=3.10
+  - plumed
+  - "pymbar>=4.0"
+  - "alchemlyb=2.0"
+  - hoomd=4.7.0
+  - flowermd
+  - vim
+  - openssh
+  - mbuild
+  - gsd
+  - ipython
+  - ipykernel
+  - mdanalysis
+  - foyer
+  - ipywidgets
+  - widgetsnbextension
+  - freud
+  - py3Dmol
+  - ele
+  - mdtraj
+  - rdkit
+  - scipy
+  - networkx
+  - intermol
+  - numpy
+  - packmol
+  - parmed
+  - pip
+  - physical_validation
+  - dask
+  - matplotlib
+  - jupyter
+  - seaborn
+  - unyt
+  - constrainmol
+  - pandas
+  - garnett
+  - pycifrw
