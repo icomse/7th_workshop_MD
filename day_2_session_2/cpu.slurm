@@ -8,5 +8,5 @@
 #SBATCH --time=02:00:00
 #SBATCH --account=see220002p
 
-singularity exec --nv /ocean/projects/see220002p/shared/icomse_latest.sif python day2_phasediagram.py
+singularity exec /ocean/projects/see220002p/shared/icomse_latest.sif python phase_diagram.py
 
