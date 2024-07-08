@@ -2,4 +2,4 @@
 
 [Notebook for simple MD](Simple_MD.ipynb)
 
-[Notebook for thermostats](Example_NVT.ipynb)
+[Notebook for thermostatted MD](Example_NVT.ipynb)
