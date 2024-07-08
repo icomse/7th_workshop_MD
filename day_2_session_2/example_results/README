@@ -1,0 +1,5 @@
+Example results for estimating the liquid-solid coextistence curve in an LJ system.
+
+These were run for 10x the time as is allotted by default in array-cpu.slurm
+
+Conditions: epsilon = 1.0, sigma = 1.0
