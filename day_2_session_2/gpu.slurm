@@ -9,6 +9,5 @@
 #SBATCH --time=00:30:00
 #SBATCH --account=see220002p
 
-echo "testing lj-npt on one gpu"
 singularity exec --nv /ocean/projects/see220002p/shared/icomse_latest.sif python phase_diagram.py
 
