@@ -1,6 +1,6 @@
 ### Session 2: MD Basics
 
-[Copy of the slides](Session 2 Intro to MD.pdf)
+[Copy of the slides](Session\ 2\ Intro\ to\ MD.pdf)
 
 [Notebook for simple MD](Simple_MD.ipynb)
 
