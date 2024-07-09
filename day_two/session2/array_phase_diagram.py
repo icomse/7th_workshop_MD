@@ -93,6 +93,12 @@ gsd_writer = hoomd.write.GSD(
     filter=hoomd.filter.All(),
 )
 
+#Use this code if you want to save a DCD file for VMD visualization
+# dcd = hoomd.write.DCD(trigger=hoomd.trigger.Periodic(int(1e3)),
+#                       filename='trajectory_{}.dcd'.format(pressure))
+# simulation.operations.writers.append(dcd)
+
+
 simulation.operations.writers.append(gsd_writer)
 
 tps_tracking = hoomd.logging.Logger(categories=['scalar', 'string'])

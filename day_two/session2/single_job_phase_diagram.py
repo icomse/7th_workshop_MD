@@ -88,6 +88,11 @@ for pressure in np.arange(1.0,10.0):
 
     simulation.operations.writers.append(gsd_writer)
 
+    #Use this code if you want to save a DCD file for VMD visualization
+    # dcd = hoomd.write.DCD(trigger=hoomd.trigger.Periodic(int(1e3)),
+    #                       filename='trajectory_{}.dcd'.format(pressure))
+    # simulation.operations.writers.append(dcd)
+
     tps_tracking = hoomd.logging.Logger(categories=['scalar', 'string'])
     tps_tracking.add(simulation, quantities=['timestep', 'tps'])
 
