@@ -1,5 +1,7 @@
 ## Material for the 2024 Fundamentals of MD Summer Workshop
 
+hi!
+
 [PDF of Schedule](7thSchedule.pdf)
 
 ### Workshop Material

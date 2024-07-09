@@ -1,0 +1,36 @@
+units           real	# Real units
+atom_style      full	# Full atomic features (type,parent,charge,position)
+dimension       3
+boundary        p p p	# Periodic box.
+pair_style lj/cut/coul/long 8.5
+bond_style      harmonic                # Only needed for energy minimization, otherwise zero.
+angle_style     harmonic                # Only needed for energy minimization, otherwise zero.
+read_data       tip3p-equil-T${T_target}-P${P_target}.dat
+pair_coeff      1 1 0.1521 3.1507	#O-O interaction - epsilon (kcal/mol), sigma (Angstroms), ljcutoff (optional) 
+pair_coeff      2 2 0.0 1.0
+pair_coeff      1 2 0.0 1.0
+bond_coeff      1 450 0.9572		# O-H bond - k (kcal/mol/Angstrom^2), length (Angstroms); length is equilibrium bond length for the OH bond
+angle_coeff     1 55 104.52		# H-O-H angle (k in kcal/mol/radian^2, equilibrium bond angle in degrees)
+kspace_style    pppm 1.0e-4		# PPPM solver for long-range interactions.
+neighbor        3.0 bin			# Thickness of the neighbor shell
+neigh_modify    delay 0 every 1 check yes
+fix             fixwater all shake 0.0001 100 0 b 1 a 1 # Freeze bonds & angles
+timestep        2.0 			# increased the timestep
+thermo          100			# Output frequency.
+thermo_style    custom step temp press density etotal
+fix             ensFix all npt temp ${T_target} ${T_target} 200.0 iso ${P_target} ${P_target} 2000.0
+compute         molChunk all chunk/atom molecule
+compute         dipoleCmpt all dipole/chunk molChunk
+compute         rdfOO all rdf 400 1 1 cutoff 8.5
+variable        myPE equal pe
+variable        myPressure equal press
+variable        myDen equal density
+variable	myEnthalpy equal enthalpy
+fix             thermoFix all ave/time 20 1 20 v_myPE v_myPressure v_myDen v_myEnthalpy ave running file tip3p-T${T_target}-P${P_target}.thermo.txt
+fix             rdfAvgFix all ave/time 20 1 20 c_rdfOO[*] ave running file tip3p-T${T_target}-P${P_target}.rdf overwrite  mode vector
+dump            dumpDipole all custom 500 tip3p-T${T_target}-P${P_target}-dump.xyz id type x y z
+fix             dpl all ave/time 500 1 500 c_dipoleCmpt[*] file tip3p-T${T_target}-P${P_target}.dipole.out mode vector
+variable	myStep equal step
+fix		printFix all print 20 "${myStep} ${myPE} ${myPressure} ${myDen} ${myEnthapy}" file tip3p-T${T_target}-P${P_target}.instVal.txt
+run             ${nSteps}
+write_data      tip3p-T${T_target}-P${P_target}.dat

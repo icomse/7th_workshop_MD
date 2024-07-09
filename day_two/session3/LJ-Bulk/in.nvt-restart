@@ -1,0 +1,32 @@
+# Specify basic aspects of the simulation.
+units lj		# Units for quantities. (lj = reduced units)
+atom_style atomic	# What features does each atom have?
+boundary p p p 		# Boundary conditions in each dimension.
+
+# Specify the interatomic potential.
+pair_style lj/cut 2.5
+pair_modify shift yes
+
+# Read a data file containing starting configuration
+read_data  melted.dat.out
+
+# Optional, but better to include (in case info missing from data file)
+pair_coeff 1 1 1.0 1.0 2.5
+
+# Integration details,
+mass 1 1.0
+timestep 0.0025
+fix ensFix all nvt temp 2.0 2.0 0.25
+velocity all create 2.0 4928459 dist gaussian
+
+# Save checkpoints along the trajectory
+restart 20000 LJ-T2-rho1-rst
+
+# Create a trajectory for further analysis/post-processing.
+dump myDump all custom 250 nvt-T2-rho1-dump.xyz id type x y z vx vy vz
+dump_modify myDump sort id
+
+# Run the simulation.
+thermo 100
+run 100000
+

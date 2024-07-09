@@ -1,0 +1,41 @@
+units           real   # Real units
+atom_style      full   # Full atomic features (type,parent,charge,position) 
+dimension       3 
+boundary        p p p  # Periodic box.
+region box	block 0 30 0 30 0 30  # Region to introduce molecules
+create_box	2 box  bond/types 1 angle/types 1 extra/bond/per/atom 2 extra/angle/per/atom 1 extra/special/per/atom 2
+mass		1 15.9994
+mass		2 1.008
+pair_style      lj/cut/coul/long 10.0 
+pair_coeff      1 1 0.1553 3.166 	# O-O interaction - epsilon (kcal/mol), sigma (Angstroms), ljcutoff (optional)
+pair_coeff 	2 2 0.0 1.0
+pair_coeff	1 2 0.0 1.0
+bond_style	harmonic		# Only needed for energy minimization, otherwise zero.
+bond_coeff	1 500 1.00		# O-H bond - k (kcal/mol/Angstrom^2), length (Angstroms); length is equilibrium bond length for the OH bond
+angle_style	harmonic		# Only needed for energy minimization, otherwise zero.
+angle_coeff	1 100 109.47		# H-O-H angle (k in kcal/mol/radian^2, equilibrium bond angle in degrees)
+molecule	water spce.mol
+create_atoms	0 random 400 34564 NULL mol water 25367 overlap 2.0 # Randomly insert 400 molecules into the box.
+kspace_style    pppm 1.0e-4 # PPPM solver for long-range interactions.
+thermo		100 # Output frequency.
+thermo_style	custom step temp pe ke etotal press
+log		spce_minimization.log
+minimize	1.0e-4 1.0e-6 1000 10000 # Minimize energy (to remove overlaps).
+neighbor        3.0 bin # Thickness of the neighbor shell
+neigh_modify    delay 0 every 1 check yes
+fix		fixwater all shake 0.0001 100 0 b 1 a 1 # Freeze bonds & angles 
+timestep        1.0 # dt needs to be small for equilibration.
+thermo_style    custom step temp press density etotal
+variable        step equal step
+variable        temp equal temp
+variable        press equal press
+variable        density equal density
+variable        etotal equal etotal
+fix             myPrint all print 100 "${step} ${temp} ${press} ${density} ${etotal}" file spce_equilibration.txt screen no
+fix             ensFix all nvt temp ${T_target} ${T_target} 100.0 # NVT equilibration
+run             ${nvtSteps} #run simulation
+unfix           ensFix
+fix             ensFix all npt temp ${T_target} ${T_target} 100.0 iso ${P_target} ${P_target} 1000.0 # NPT equilibration
+run             ${nptSteps}
+write_data      spce-equil-T${T_target}-P${P_target}.dat
+
