@@ -1,0 +1,25 @@
+# Specify basic aspects of the simulation.
+units lj		# Units for quantities. (lj = reduced units)
+atom_style atomic	# What features does each atom have?
+boundary p p p 		# Boundary conditions in each dimension.
+# Prepare initial structure.
+lattice sc ${numDen}
+region myBox block 0 10 0 10 0 10 
+create_box 1 myBox
+create_atoms 1 region myBox
+# Specify the interatomic potential.
+pair_style lj/cut 2.5
+pair_modify shift yes
+pair_coeff 1 1 1.0 1.0 2.5
+# Integration details,
+mass 1 1.0
+timestep 0.0025
+fix ensFix all nvt temp ${T_target} ${T_target} 0.25
+velocity all create ${T_target} 4928459 dist gaussian
+# Save the starting configuration.
+write_data starting.dat.out
+# Run the simulation.
+thermo 100
+run ${eqSteps}
+# Save the final configuration.
+write_data equil-rho${numDen}-T${T_target}.dat.out
