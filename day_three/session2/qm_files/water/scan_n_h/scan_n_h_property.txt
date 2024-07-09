@@ -12,7 +12,7 @@ $ SCF_Energy
    description: The SCF energy
    geom. index: 1
    prop. index: 1
-        SCF Energy:     -549.3621198786
+        SCF Energy:     -549.3621198813
 # -----------------------------------------------------------
 $ Mayer_Pop
    description: The Mayer population analysis
@@ -28,47 +28,47 @@ $ Mayer_Pop
   BVA  - Mayer's bonded valence
   FA   - Mayer's free valence
   ATOM       NA         ZA         QA         VA         BVA        FA
-  0   0     6.2563     6.0000    -0.2563     3.8685     3.8685     0.0000
-  1   0     5.6537     6.0000     0.3463     3.8135     3.8135    -0.0000
-  2   0     6.1543     6.0000    -0.1543     3.9052     3.9052     0.0000
-  3   0     6.2056     6.0000    -0.2056     3.8690     3.8690     0.0000
-  4   0     6.2464     6.0000    -0.2464     3.8790     3.8790     0.0000
-  5   0     6.1485     6.0000    -0.1485     3.8692     3.8692     0.0000
+  0   0     6.2563     6.0000    -0.2563     3.8686     3.8686     0.0000
+  1   0     5.6538     6.0000     0.3462     3.8135     3.8135    -0.0000
+  2   0     6.1544     6.0000    -0.1544     3.9052     3.9052    -0.0000
+  3   0     6.2055     6.0000    -0.2055     3.8691     3.8691    -0.0000
+  4   0     6.2463     6.0000    -0.2463     3.8790     3.8790    -0.0000
+  5   0     6.1486     6.0000    -0.1486     3.8692     3.8692    -0.0000
   6   0     0.7903     1.0000     0.2097     0.9264     0.9264     0.0000
-  7   0     0.7439     1.0000     0.2561     0.9091     0.9091     0.0000
-  8   0     5.1067     6.0000     0.8933     3.7306     3.7306    -0.0000
-  9   0     0.7956     1.0000     0.2044     0.9269     0.9269    -0.0000
- 10   0     8.0012     7.0000    -1.0012     2.6260     2.6260     0.0000
- 11   0     8.6530     8.0000    -0.6530     1.8319     1.8319    -0.0000
- 12   0     8.7685     8.0000    -0.7685     1.7139     1.7139    -0.0000
- 13   0     0.5171     1.0000     0.4829     0.7538     0.7538    -0.0000
- 14   0     0.7805     1.0000     0.2195     0.9207     0.9207    -0.0000
- 15   0     0.5485     1.0000     0.4515     0.7890     0.7890     0.0000
- 16   0     0.6187     1.0000     0.3813     0.8262     0.8262     0.0000
+  7   0     0.7440     1.0000     0.2560     0.9091     0.9091     0.0000
+  8   0     5.1068     6.0000     0.8932     3.7307     3.7307     0.0000
+  9   0     0.7956     1.0000     0.2044     0.9269     0.9269     0.0000
+ 10   0     8.0011     7.0000    -1.0011     2.6260     2.6260     0.0000
+ 11   0     8.6529     8.0000    -0.6529     1.8320     1.8320     0.0000
+ 12   0     8.7685     8.0000    -0.7685     1.7139     1.7139     0.0000
+ 13   0     0.5171     1.0000     0.4829     0.7538     0.7538     0.0000
+ 14   0     0.7806     1.0000     0.2194     0.9207     0.9207     0.0000
+ 15   0     0.5485     1.0000     0.4515     0.7891     0.7891     0.0000
+ 16   0     0.6188     1.0000     0.3812     0.8262     0.8262    -0.0000
  17   0     0.4777     1.0000     0.5223     0.6961     0.6961    -0.0000
  18   0     8.9624     8.0000    -0.9624     1.4694     1.4694     0.0000
- 19   0     0.5709     1.0000     0.4291     0.7847     0.7847    -0.0000
+ 19   0     0.5708     1.0000     0.4292     0.7847     0.7847     0.0000
       Bond orders larger than 0.1000000
            Atom A     A.N. of A          Atom B    A.N. of B              Bond order
-                0             6               1            6                1.365049
-                0             6               2            6                1.497489
-                0             6               9            1                0.936735
-                1             6               3            6                1.374788
-                1             6              10            7                0.984245
-                2             6               4            6                1.389645
-                2             6              14            1                0.935261
-                3             6               5            6                1.369299
-                3             6               8            6                1.059285
-                4             6               5            6                1.490304
-                4             6               6            1                0.939194
-                5             6               7            1                0.913208
-                8             6              11            8                1.694075
-                8             6              12            8                0.964508
-               10             7              15            1                0.740137
-               10             7              16            1                0.825044
-               12             8              13            1                0.724282
-               17             1              18            8                0.671090
-               18             8              19            1                0.787449
+                0             6               1            6                1.365128
+                0             6               2            6                1.497435
+                0             6               9            1                0.936729
+                1             6               3            6                1.374801
+                1             6              10            7                0.984198
+                2             6               4            6                1.389737
+                2             6              14            1                0.935266
+                3             6               5            6                1.369398
+                3             6               8            6                1.059252
+                4             6               5            6                1.490231
+                4             6               6            1                0.939187
+                5             6               7            1                0.913215
+                8             6              11            8                1.694159
+                8             6              12            8                0.964516
+               10             7              15            1                0.740164
+               10             7              16            1                0.825052
+               12             8              13            1                0.724276
+               17             1              18            8                0.671062
+               18             8              19            1                0.787445
 # -----------------------------------------------------------
 $ SCF_Electric_Properties
    description: The SCF Calculated Electric Properties
@@ -79,12 +79,12 @@ $ SCF_Electric_Properties
        Do Quadrupole Moment Calculation  : false 
        Do Polarizability Calculation     : false 
 ** Dipole moment part of electric properties **
-        Magnitude of dipole moment (Debye) :        2.9034127439
+        Magnitude of dipole moment (Debye) :        2.9035743975
         Electronic Contribution:
                   0    
-      0       3.586030
-      1       3.161594
-      2       2.782449
+      0       3.586272
+      1       3.161308
+      2       2.782510
         Nuclear Contribution:
                   0    
       0      -3.912743
@@ -92,9 +92,9 @@ $ SCF_Electric_Properties
       2      -1.731683
         Total Dipole moment:
                   0    
-      0      -0.326713
-      1      -0.306469
-      2       1.050766
+      0      -0.326471
+      1      -0.306755
+      2       1.050827
 # -----------------------------------------------------------
 $ PAL_Flags
    description: The PAL Flags
@@ -106,7 +106,7 @@ $ SCF_Energy
    description: The SCF energy
    geom. index: 2
    prop. index: 1
-        SCF Energy:     -549.3629682641
+        SCF Energy:     -549.3629682632
 # -----------------------------------------------------------
 $ SCF_Electric_Properties
    description: The SCF Calculated Electric Properties
@@ -117,12 +117,12 @@ $ SCF_Electric_Properties
        Do Quadrupole Moment Calculation  : false 
        Do Polarizability Calculation     : false 
 ** Dipole moment part of electric properties **
-        Magnitude of dipole moment (Debye) :        2.8686742586
+        Magnitude of dipole moment (Debye) :        2.8686320978
         Electronic Contribution:
                   0    
-      0       3.592855
-      1       3.140743
-      2       2.855287
+      0       3.592874
+      1       3.140706
+      2       2.855263
         Nuclear Contribution:
                   0    
       0      -3.912743
@@ -130,9 +130,9 @@ $ SCF_Electric_Properties
       2      -1.822032
         Total Dipole moment:
                   0    
-      0      -0.319888
-      1      -0.322172
-      2       1.033255
+      0      -0.319869
+      1      -0.322210
+      2       1.033231
 # -----------------------------------------------------------
 $ PAL_Flags
    description: The PAL Flags
@@ -144,7 +144,7 @@ $ SCF_Energy
    description: The SCF energy
    geom. index: 3
    prop. index: 1
-        SCF Energy:     -549.3633485608
+        SCF Energy:     -549.3633485615
 # -----------------------------------------------------------
 $ SCF_Electric_Properties
    description: The SCF Calculated Electric Properties
@@ -155,12 +155,12 @@ $ SCF_Electric_Properties
        Do Quadrupole Moment Calculation  : false 
        Do Polarizability Calculation     : false 
 ** Dipole moment part of electric properties **
-        Magnitude of dipole moment (Debye) :        2.8392386926
+        Magnitude of dipole moment (Debye) :        2.8392418449
         Electronic Contribution:
                   0    
       0       3.598808
-      1       3.121931
-      2       2.930414
+      1       3.121929
+      2       2.930415
         Nuclear Contribution:
                   0    
       0      -3.912743
@@ -169,8 +169,8 @@ $ SCF_Electric_Properties
         Total Dipole moment:
                   0    
       0      -0.313935
-      1      -0.335838
-      2       1.018033
+      1      -0.335839
+      2       1.018034
 # -----------------------------------------------------------
 $ PAL_Flags
    description: The PAL Flags
@@ -182,7 +182,7 @@ $ SCF_Energy
    description: The SCF energy
    geom. index: 4
    prop. index: 1
-        SCF Energy:     -549.3634290168
+        SCF Energy:     -549.3634290169
 # -----------------------------------------------------------
 $ SCF_Electric_Properties
    description: The SCF Calculated Electric Properties
@@ -193,7 +193,7 @@ $ SCF_Electric_Properties
        Do Quadrupole Moment Calculation  : false 
        Do Polarizability Calculation     : false 
 ** Dipole moment part of electric properties **
-        Magnitude of dipole moment (Debye) :        2.8147380024
+        Magnitude of dipole moment (Debye) :        2.8147384170
         Electronic Contribution:
                   0    
       0       3.604226
@@ -231,12 +231,12 @@ $ SCF_Electric_Properties
        Do Quadrupole Moment Calculation  : false 
        Do Polarizability Calculation     : false 
 ** Dipole moment part of electric properties **
-        Magnitude of dipole moment (Debye) :        2.7939930503
+        Magnitude of dipole moment (Debye) :        2.7939931232
         Electronic Contribution:
                   0    
       0       3.609137
       1       3.087232
-      2       3.086221
+      2       3.086222
         Nuclear Contribution:
                   0    
       0      -3.912743
@@ -269,7 +269,7 @@ $ SCF_Electric_Properties
        Do Quadrupole Moment Calculation  : false 
        Do Polarizability Calculation     : false 
 ** Dipole moment part of electric properties **
-        Magnitude of dipole moment (Debye) :        2.7760907463
+        Magnitude of dipole moment (Debye) :        2.7760907569
         Electronic Contribution:
                   0    
       0       3.613617
@@ -307,7 +307,7 @@ $ SCF_Electric_Properties
        Do Quadrupole Moment Calculation  : false 
        Do Polarizability Calculation     : false 
 ** Dipole moment part of electric properties **
-        Magnitude of dipole moment (Debye) :        2.7603310301
+        Magnitude of dipole moment (Debye) :        2.7603310316
         Electronic Contribution:
                   0    
       0       3.617734
@@ -345,7 +345,7 @@ $ SCF_Electric_Properties
        Do Quadrupole Moment Calculation  : false 
        Do Polarizability Calculation     : false 
 ** Dipole moment part of electric properties **
-        Magnitude of dipole moment (Debye) :        2.7461672605
+        Magnitude of dipole moment (Debye) :        2.7461672607
         Electronic Contribution:
                   0    
       0       3.621543
@@ -410,7 +410,7 @@ $ SCF_Energy
    description: The SCF energy
    geom. index: 10
    prop. index: 1
-        SCF Energy:     -549.3619758526
+        SCF Energy:     -549.3619758527
 # -----------------------------------------------------------
 $ SCF_Electric_Properties
    description: The SCF Calculated Electric Properties
@@ -2815,7 +2815,7 @@ $ SCF_Electric_Properties
        Do Quadrupole Moment Calculation  : false 
        Do Polarizability Calculation     : false 
 ** Dipole moment part of electric properties **
-        Magnitude of dipole moment (Debye) :        2.6494623672
+        Magnitude of dipole moment (Debye) :        2.6494623673
         Electronic Contribution:
                   0    
       0       3.680903
