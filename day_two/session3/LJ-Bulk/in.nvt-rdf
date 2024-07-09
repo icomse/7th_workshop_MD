@@ -1,0 +1,35 @@
+# Specify basic aspects of the simulation.
+units lj		# Units for quantities. (lj = reduced units)
+atom_style atomic	# What features does each atom have?
+boundary p p p 		# Boundary conditions in each dimension.
+# Prepare initial structure.
+lattice fcc 1.0
+region myBox block -0.5 5.5 -0.5 5.5 -0.5 5.5 
+create_box 1 myBox
+create_atoms 1 region myBox
+# Specify the interatomic potential.
+pair_style lj/cut 2.5
+pair_modify shift yes
+pair_coeff 1 1 1.0 1.0 2.5
+# Integration details,
+mass 1 1.0
+timestep 0.0025
+fix ensFix all nvt temp 2.0 2.0 0.25
+velocity all create 2.0 4928459 dist gaussian
+# Save the starting configuration.
+write_data starting.dat.out
+# Equilibrate the system.
+thermo 100
+run 10000
+# Compute the RDF
+comm_modify mode single cutoff 5
+compute myRDF all rdf 160 cutoff 4.0 
+fix rdfAvgFix all ave/time 20 1 20 c_myRDF[*] ave running file nvt-T2.rdf overwrite  mode vector
+# Compute the potential energy and pressure
+variable myPE equal pe
+variable myPress equal press
+fix thAvgFix all ave/time 10 100 1000 v_myPE v_myPress file nvt-T2-thermo.txt 
+# Production run
+run 90000
+# Save the final configuration.
+write_data melted.dat.out
