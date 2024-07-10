@@ -1,0 +1,47 @@
+units lj
+
+atom_style atomic
+pair_style mie/cut 2.5
+
+variable wallRat equal 1/v_wallSize
+variable sigMix equal v_wallSize/2
+variable cutoffB equal 1.0204*v_wallSize
+variable cutoffM equal 1.0204*v_sigMix
+
+pair_modify shift yes
+
+read_data ${rstFileName}
+
+pair_coeff 1 1 1.0 1.0 50.0 49.0 1.0204
+pair_coeff 1 2 1.0 ${sigMix} 50.0 49.0 ${cutoffM}
+pair_coeff 2 2 1.0 ${wallSize} 50.0 49.0 ${cutoffB}
+
+mass 1 1.0
+mass 2 1.0
+
+group mobileGrp type 1
+group wallGrp type 2
+
+neighbor 2.5 bin
+neigh_modify every 1 delay 0 check yes page 100000
+
+fix momentumFix all momentum 1 linear 1 1 1 
+
+fix ensFix mobileGrp nvt temp 1.5 1.5 0.1
+timestep 0.001
+
+velocity mobileGrp create 1.5 2024 dist gaussian
+
+
+compute binId mobileGrp chunk/atom bin/1d z lower 0.05 units box
+fix avDen all ave/chunk 100 1 100 binId density/number ave running file hard-sphere-X${wallSize}-num-Den.txt overwrite
+
+
+
+thermo 500
+run ${prodSteps}
+
+write_data ${outFileName}
+
+ 
+
