@@ -1,0 +1,63 @@
+units       real
+boundary    p p f
+atom_style  full
+neighbor        2.0 bin
+neigh_modify    delay 0  every 1 check yes 
+
+# Simulation set-up
+pair_style lj/cut/tip4p/long 1 2 1 1 0.1546 12.5
+pair_modify mix arithmetic
+processors * * 1
+
+bond_style      harmonic
+angle_style     harmonic
+
+read_data ${inFileName}
+kspace_style pppm/tip4p 0.000100000000000
+kspace_modify slab 3.000000000000000
+dielectric 1.0
+
+bond_coeff	1	5000	0.9572	# water TIP4P-2005, the K coeff is irrelevant as we are using a rigid model for water
+
+angle_coeff	1	500	104.52	#water TIP4P-2005, The value for K is not used as we are using a rigid model of water
+
+pair_coeff	1	1	0.1852	3.1589	# O-water #TIP4P-2005
+pair_coeff      2       2       0.0       0.0       # H-water
+pair_coeff	3	3	0.0859    3.3997 	# C_piston # same as graphene systems
+pair_coeff      4       4       0.0859    3.3997         # C_piston # same as graphene systems
+
+# define groups
+group hydWater type 2
+group oxWater type 1
+group pist1 type 3
+group pist2 type 4
+group waterGrp union oxWater hydWater
+group pistonGrp union pist1 pist2
+
+fix myNVT waterGrp nvt temp 300.000000000000000 300.000000000000000 200.000000000000000   # Allow energy to fluctuate (remove high energies)
+
+fix wallLowStr all wall/lj93  zlo EDGE 1.000000000000000 1.000000000000000 1.100000000000000 
+fix wallHighStr all wall/lj93  zhi EDGE 1.000000000000000 1.000000000000000 1.100000000000000 
+fix shakeFixwaterGrpStr waterGrp shake 0.0001 200 0 b 1 a 1
+
+dump myDump  all custom 1000 ${tag}.dump.xyz id mol type q x y z
+dump_modify  myDump append yes sort id format line "%d %d %d %8.4f %20.15f %20.15f %20.15f"
+
+thermo 100
+timestep 2.0
+
+compute binId waterGrp chunk/atom bin/1d z lower 0.1 units box
+compute qVal waterGrp property/atom q 
+compute peVal waterGrp pe/atom
+compute  molChunk waterGrp chunk/atom molecule
+compute  dipoleCmpt waterGrp dipole/tip4p/chunk molChunk
+compute  comCmpt waterGrp com/chunk molChunk
+
+fix avDen all ave/chunk 20 1 20 binId density/mass c_qVal c_peVal ave running file ${tag}-num-Den.txt overwrite
+fix indDpl all ave/time 20 1 20 c_comCmpt[*] c_dipoleCmpt[*] file ${tag}.dpl.all.txt mode vector 
+
+
+run ${prodSteps}
+
+
+
