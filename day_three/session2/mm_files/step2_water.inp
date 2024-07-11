@@ -16,7 +16,7 @@ read  unit 20 para card flex
 close unit 20
 
 ! read the str file that was generated
-stream "./mol.str"
+stream "./mol_tmp.str"
 
 ! generate the initial structure
 set res TEST
@@ -61,49 +61,6 @@ close unit 10
 
 ! now we start with water scans
 stream "./toppar/toppar_water_ions.str"
-
-! we scan water O interacting with C2 carbon
-set dist 1.0
-open unit 10 write card name "scan_c2_water_o.ener"
-
-label waterscan1
-
-read sequence card
-* sequence for model
-*
- 1
- tip3
-
-generate wata first none last none noangle nodihedral
-join test wata renumber
-
-ic fill preserve
-ic edit
-dihe 1 c3 1 c1 1 c2 2 oh2 90.0
-angl 1 c1 1 c2 2 oh2 90.0
-bond 1 c2 2 oh2 @dist
-end
-
-ic build
-hbuild sele all end
-coor print
-
-nbonds atom vatom vfswitch bycb -
-   ctonnb 10.0 ctofnb 12.0 cutnb 16.0 cutim 16.0 -
-   inbfrq -1 imgfrq -1 wmin 1.0 cdie eps 1.0 -
-
-energy
-inte sele resn test end sele resn tip3 end
-
-set ene ?ener
-write title unit 10
-*@dist @ene
-*
-
-incr dist by 0.1
-delete atoms sele resn tip3 end
-if @dist .le. 10 goto waterscan1
-close unit 10
 
 ! we scan water H interacting with C2 carbon
 set dist 1.0
@@ -153,7 +110,7 @@ write title unit 10
 
 write unit 11 coord pdb
 
-incr dist by 0.01
+incr dist by 0.1
 delete atoms sele resn tip3 end
 if @dist .le. 10 goto waterscan2
 close unit 10
@@ -205,7 +162,7 @@ write title unit 10
 
 write unit 11 coord pdb
 
-incr dist by 0.01
+incr dist by 0.1
 delete atoms sele resn tip3 end
 if @dist .le. 10 goto waterscan3
 close unit 10
@@ -252,7 +209,7 @@ write title unit 10
 
 write unit 11 coord pdb
 
-incr dist by 0.01
+incr dist by 0.1
 delete atoms sele resn tip3 end
 if @dist .le. 10 goto waterscan4
 close unit 10
@@ -300,107 +257,9 @@ write title unit 10
 
 write unit 11 coord pdb
 
-incr dist by 0.01
+incr dist by 0.1
 delete atoms sele resn tip3 end
 if @dist .le. 10 goto waterscan5
-close unit 10
-close unit 11
-
-! now we scan water O interacting with NH1
-set dist 1.0
-open unit 10 write card name "scan_nh1_water_o.ener"
-open unit 11 write card name "scan_nh1_water_o.pdb"
-
-label waterscan6
-
-read sequence tip3 1
-generate wata first none last none noangle nodihedral
-join test wata renumber
-
-ic fill preserve
-ic edit
-dihe 1 c2  1 n   1 h6  2 oh2 120.0
-dihe 2 h2  2 oh2 1 n   1 c2  180.0
-dihe 2 h1  2 oh2 1 n   1 c2    0.0
-angl 1 n   1 h6  2 oh2 180.0
-angl 2 h2  2 oh2 1 n   127.74
-angl 2 h1  2 oh2 1 n   127.74
-angl 2 oh2 1 n   1 c2  110.05
-bond 1 h6  2 oh2 @dist
-bond 2 h2  2 oh2 0.9572
-bond 2 h1  2 oh2 0.9572
-end
-
-ic build
-coor print
-
-nbonds atom vatom vfswitch bycb -
-   ctonnb 10.0 ctofnb 12.0 cutnb 16.0 cutim 16.0 -
-   inbfrq -1 imgfrq -1 wmin 1.0 cdie eps 1.0 -
-
-energy
-inte sele resn test end sele resn tip3 end
-
-set ene ?ener
-write title unit 10
-*@dist @ene
-*
-
-write unit 11 coord pdb
-
-incr dist by 0.01
-delete atoms sele resn tip3 end
-if @dist .le. 10 goto waterscan6
-
-close unit 10
-close unit 11
-
-! now we scan water O interacting with NH2
-set dist 1.0
-open unit 10 write card name "scan_nh2_water_o.ener"
-open unit 11 write card name "scan_nh2_water_o.pdb"
-
-label waterscan7
-
-read sequence tip3 1
-generate wata first none last none noangle nodihedral
-join test wata renumber
-
-ic fill preserve
-ic edit
-dihe 1 c2  1 n   1 h7  2 oh2 120.0
-dihe 2 h2  2 oh2 1 n   1 c2  180.0
-dihe 2 h1  2 oh2 1 n   1 c2    0.0
-angl 1 n   1 h7  2 oh2 180.0
-angl 2 h2  2 oh2 1 n   127.74
-angl 2 h1  2 oh2 1 n   127.74
-angl 2 oh2 1 n   1 c2  110.05
-bond 1 h7  2 oh2 @dist
-bond 2 h2  2 oh2 0.9572
-bond 2 h1  2 oh2 0.9572
-end
-
-ic build
-coor print
-
-nbonds atom vatom vfswitch bycb -
-   ctonnb 10.0 ctofnb 12.0 cutnb 16.0 cutim 16.0 -
-   inbfrq -1 imgfrq -1 wmin 1.0 cdie eps 1.0 -
-
-energy
-inte sele resn test end sele resn tip3 end
-
-set ene ?ener
-write title unit 10
-*@dist @ene
-*
-
-write unit 11 coord pdb
-
-incr dist by 0.01
-delete atoms sele resn tip3 end
-if @dist .le. 10 goto waterscan7
-
 close unit 10
 close unit 11
 

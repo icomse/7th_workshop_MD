@@ -1,0 +1,2184 @@
+REMARK 1.0 1078.63951                                                                 
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.556  -0.436  -1.920  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.013  -1.261  -2.088  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.534  -0.364  -0.966  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 1.1 409.728715                                                                 
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.559  -0.444  -2.020  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.015  -1.268  -2.188  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.536  -0.372  -1.066  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 1.2 177.452913                                                                 
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.561  -0.451  -2.120  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.017  -1.276  -2.287  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.538  -0.379  -1.165  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 1.3 84.7208881                                                                 
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.564  -0.459  -2.219  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.020  -1.283  -2.387  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.541  -0.387  -1.265  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 1.4 43.2207839                                                                 
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.566  -0.466  -2.319  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.022  -1.291  -2.487  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.543  -0.394  -1.365  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 1.5 22.9170484                                                                 
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.568  -0.474  -2.419  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.025  -1.298  -2.587  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.546  -0.402  -1.465  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 1.6 12.2984533                                                                 
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.571  -0.481  -2.518  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.027  -1.306  -2.686  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.548  -0.409  -1.564  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 1.7 6.47200646                                                                 
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.573  -0.489  -2.618  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.029  -1.313  -2.786  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.550  -0.417  -1.664  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 1.8 3.16863461                                                                 
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.575  -0.496  -2.718  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.032  -1.321  -2.886  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.553  -0.424  -1.764  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 1.9 1.25841327                                                                 
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.578  -0.504  -2.818  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.034  -1.328  -2.985  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.555  -0.432  -1.863  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 2 0.14563761                                                                   
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.580  -0.511  -2.917  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.036  -1.336  -3.085  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.557  -0.439  -1.963  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 2.1 -0.498280623                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.583  -0.519  -3.017  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.039  -1.343  -3.185  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.560  -0.447  -2.063  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 2.2 -0.861178965                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.585  -0.526  -3.117  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.041  -1.351  -3.284  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.562  -0.454  -2.162  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 2.3 -1.05350656                                                                
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.587  -0.534  -3.216  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.044  -1.358  -3.384  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.565  -0.462  -2.262  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 2.4 -1.14166935                                                                
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.590  -0.541  -3.316  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.046  -1.366  -3.484  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.567  -0.469  -2.362  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 2.5 -1.16629409                                                                
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.592  -0.549  -3.416  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.048  -1.373  -3.583  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.569  -0.477  -2.461  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 2.6 -1.15256807                                                                
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.594  -0.556  -3.515  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.051  -1.381  -3.683  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.572  -0.484  -2.561  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 2.7 -1.11625549                                                                
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.597  -0.564  -3.615  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.053  -1.388  -3.783  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.574  -0.492  -2.661  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 2.8 -1.06727927                                                                
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.599  -0.571  -3.715  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.055  -1.396  -3.883  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.576  -0.499  -2.761  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 2.9 -1.01189509                                                                
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.602  -0.579  -3.814  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.058  -1.403  -3.982  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.579  -0.507  -2.860  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 3 -0.954032624                                                                 
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.604  -0.586  -3.914  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.060  -1.411  -4.082  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.581  -0.514  -2.960  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 3.1 -0.896134603                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.606  -0.594  -4.014  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.063  -1.418  -4.182  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.584  -0.522  -3.060  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 3.2 -0.839687964                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.609  -0.601  -4.113  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.065  -1.426  -4.281  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.586  -0.529  -3.159  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 3.3 -0.785563504                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.611  -0.609  -4.213  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.067  -1.433  -4.381  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.588  -0.537  -3.259  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 3.4 -0.73423489                                                                
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.613  -0.616  -4.313  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.070  -1.441  -4.481  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.591  -0.544  -3.359  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 3.5 -0.685920855                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.616  -0.624  -4.413  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.072  -1.448  -4.580  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.593  -0.552  -3.458  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 3.6 -0.640678003                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.618  -0.631  -4.512  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.075  -1.456  -4.680  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.595  -0.559  -3.558  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 3.7 -0.598461609                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.621  -0.639  -4.612  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.077  -1.463  -4.780  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.598  -0.567  -3.658  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 3.8 -0.559165493                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.623  -0.646  -4.712  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.079  -1.471  -4.879  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.600  -0.574  -3.757  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 3.9 -0.522648179                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.625  -0.654  -4.811  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.082  -1.478  -4.979  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.603  -0.582  -3.857  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 4 -0.488749964                                                                 
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.628  -0.661  -4.911  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.084  -1.486  -5.079  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.605  -0.589  -3.957  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 4.1 -0.457303988                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.630  -0.669  -5.011  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.086  -1.493  -5.178  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.607  -0.597  -4.056  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 4.2 -0.428143304                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.632  -0.676  -5.110  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.089  -1.501  -5.278  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.610  -0.604  -4.156  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 4.3 -0.401105286                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.635  -0.684  -5.210  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.091  -1.508  -5.378  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.612  -0.612  -4.256  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 4.4 -0.376034275                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.637  -0.691  -5.310  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.094  -1.516  -5.478  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.614  -0.619  -4.356  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 4.5 -0.352783054                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.640  -0.699  -5.409  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.096  -1.523  -5.577  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.617  -0.627  -4.455  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 4.6 -0.331213547                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.642  -0.706  -5.509  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.098  -1.531  -5.677  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.619  -0.634  -4.555  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 4.7 -0.311197022                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.644  -0.714  -5.609  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.101  -1.538  -5.777  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.622  -0.642  -4.655  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 4.8 -0.29261397                                                                
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.647  -0.721  -5.709  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.103  -1.546  -5.876  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.624  -0.649  -4.754  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 4.9 -0.27535379                                                                
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.649  -0.729  -5.808  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.105  -1.553  -5.976  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.626  -0.657  -4.854  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 5 -0.259314348                                                                 
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.651  -0.736  -5.908  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.108  -1.561  -6.076  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.629  -0.664  -4.954  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 5.1 -0.244401481                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.654  -0.744  -6.008  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.110  -1.568  -6.175  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.631  -0.672  -5.053  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 5.2 -0.230528475                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.656  -0.751  -6.107  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.113  -1.576  -6.275  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.633  -0.679  -5.153  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 5.3 -0.217615532                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.659  -0.759  -6.207  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.115  -1.583  -6.375  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.636  -0.687  -5.253  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 5.4 -0.205589262                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.661  -0.766  -6.307  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.117  -1.591  -6.474  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.638  -0.694  -5.352  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 5.5 -0.194382178                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.663  -0.774  -6.406  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.120  -1.598  -6.574  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.641  -0.702  -5.452  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 5.6 -0.183932238                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.666  -0.781  -6.506  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.122  -1.606  -6.674  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.643  -0.709  -5.552  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 5.7 -0.1741824                                                                 
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.668  -0.789  -6.606  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.124  -1.613  -6.774  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.645  -0.717  -5.652  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 5.8 -0.165080218                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.670  -0.796  -6.705  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.127  -1.621  -6.873  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.648  -0.724  -5.751  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 5.9 -0.156577458                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.673  -0.804  -6.805  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.129  -1.628  -6.973  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.650  -0.732  -5.851  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 6 -0.148629754                                                                 
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.675  -0.811  -6.905  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.132  -1.636  -7.073  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.652  -0.739  -5.951  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 6.1 -0.141196284                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.678  -0.819  -7.004  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.134  -1.643  -7.172  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.655  -0.747  -6.050  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 6.2 -0.134239474                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.680  -0.826  -7.104  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.136  -1.651  -7.272  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.657  -0.754  -6.150  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 6.3 -0.127724726                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.682  -0.834  -7.204  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.139  -1.658  -7.372  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.660  -0.762  -6.250  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 6.4 -0.121620172                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.685  -0.841  -7.304  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.141  -1.666  -7.471  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.662  -0.769  -6.349  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 6.5 -0.115896447                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.687  -0.849  -7.403  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.143  -1.673  -7.571  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.664  -0.777  -6.449  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 6.6 -0.110526477                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.689  -0.856  -7.503  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.146  -1.681  -7.671  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.667  -0.784  -6.549  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 6.7 -0.105485293                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.692  -0.864  -7.603  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.148  -1.688  -7.770  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.669  -0.792  -6.648  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 6.8 -0.100749854                                                               
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.694  -0.871  -7.702  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.151  -1.696  -7.870  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.671  -0.799  -6.748  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 6.9 -9.62988907E-02                                                            
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.697  -0.879  -7.802  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.153  -1.703  -7.970  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.674  -0.807  -6.848  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 7 -9.211275643E-02                                                             
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.699  -0.886  -7.902  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.155  -1.711  -8.069  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.676  -0.814  -6.947  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 7.1 -8.817329799E-02                                                           
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.701  -0.894  -8.001  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.158  -1.718  -8.169  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.679  -0.822  -7.047  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 7.2 -8.446373205E-02                                                           
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.704  -0.901  -8.101  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.160  -1.726  -8.269  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.681  -0.830  -7.147  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 7.3 -8.096853442E-02                                                           
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.706  -0.909  -8.201  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.162  -1.733  -8.369  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.683  -0.837  -7.247  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 7.4 -7.767333844E-02                                                           
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.708  -0.916  -8.300  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.165  -1.741  -8.468  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.686  -0.845  -7.346  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 7.5 -7.456484197E-02                                                           
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.711  -0.924  -8.400  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.167  -1.748  -8.568  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.688  -0.852  -7.446  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 7.6 -7.16307223E-02                                                            
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.713  -0.931  -8.500  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.170  -1.756  -8.668  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.690  -0.860  -7.546  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 7.7 -6.885955821E-02                                                           
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.716  -0.939  -8.600  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.172  -1.763  -8.767  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.693  -0.867  -7.645  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 7.8 -6.624075886E-02                                                           
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.718  -0.946  -8.699  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.174  -1.771  -8.867  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.695  -0.875  -7.745  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 7.9 -6.376450208E-02                                                           
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.720  -0.954  -8.799  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.177  -1.778  -8.967  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.698  -0.882  -7.845  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 8 -6.142168069E-02                                                             
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.723  -0.961  -8.899  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.179  -1.786  -9.066  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.700  -0.890  -7.944  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 8.1 -5.920382394E-02                                                           
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.725  -0.969  -8.998  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.181  -1.793  -9.166  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.702  -0.897  -8.044  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 8.2 -5.710356163E-02                                                           
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.727  -0.976  -9.098  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.184  -1.801  -9.266  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.705  -0.905  -8.144  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 8.3 -5.511412308E-02                                                           
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.730  -0.984  -9.198  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.186  -1.808  -9.365  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.707  -0.912  -8.243  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 8.4 -5.32288264E-02                                                            
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.732  -0.991  -9.297  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.189  -1.816  -9.465  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.709  -0.920  -8.343  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 8.5 -5.144133298E-02                                                           
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.735  -0.999  -9.397  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.191  -1.823  -9.565  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.712  -0.927  -8.443  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 8.6 -4.974603106E-02                                                           
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.737  -1.006  -9.497  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.193  -1.831  -9.665  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.714  -0.935  -8.543  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 8.7 -4.813768963E-02                                                           
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.739  -1.014  -9.596  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.196  -1.838  -9.764  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.717  -0.942  -8.642  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 8.8 -4.66123739E-02                                                            
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.742  -1.021  -9.696  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.198  -1.846  -9.864  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.719  -0.950  -8.742  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 8.9 -4.516781012E-02                                                           
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.744  -1.029  -9.796  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.200  -1.853  -9.964  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.721  -0.957  -8.842  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 9 -4.380137678E-02                                                             
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.746  -1.036  -9.895  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.203  -1.861 -10.063  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.724  -0.965  -8.941  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 9.1 -4.251064249E-02                                                           
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.749  -1.044  -9.995  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.205  -1.868 -10.163  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.726  -0.972  -9.041  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 9.2 -4.129197763E-02                                                           
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.751  -1.051 -10.095  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.208  -1.876 -10.263  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.728  -0.980  -9.141  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 9.3 -4.014080793E-02                                                           
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.754  -1.059 -10.195  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.210  -1.883 -10.362  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.731  -0.987  -9.240  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 9.4 -3.905276901E-02                                                           
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.756  -1.066 -10.294  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.212  -1.891 -10.462  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.733  -0.995  -9.340  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 9.5 -3.802439791E-02                                                           
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.758  -1.074 -10.394  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.215  -1.898 -10.562  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.736  -1.002  -9.440  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 9.6 -3.705273234E-02                                                           
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.761  -1.081 -10.494  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.217  -1.906 -10.661  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.738  -1.010  -9.539  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 9.7 -3.613413949E-02                                                           
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.763  -1.089 -10.593  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.219  -1.913 -10.761  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.740  -1.017  -9.639  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 9.8 -3.532680085E-02                                                           
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.765  -1.096 -10.693  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.222  -1.921 -10.861  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.743  -1.025  -9.739  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 9.9 -3.499743831E-02                                                           
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.768  -1.104 -10.793  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.224  -1.929 -10.960  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.745  -1.032  -9.838  1.00  0.00      TEST
+TER      21      TIP3     2
+END
+REMARK 10 -3.487156475E-02                                                            
+REMARK   DATE:     7/11/24      7:47:33      CREATED BY USER: hemanthharid            
+ATOM      1  C1  TEST    1      -1.567   0.942  -0.111  1.00  0.00      TEST
+ATOM      2  C2  TEST    1      -0.167   0.922  -0.076  1.00  0.00      TEST
+ATOM      3  C3  TEST    1      -2.304  -0.249  -0.031  1.00  0.00      TEST
+ATOM      4  C4  TEST    1       0.510  -0.289   0.031  1.00  0.00      TEST
+ATOM      5  C5  TEST    1      -1.626  -1.469   0.074  1.00  0.00      TEST
+ATOM      6  C6  TEST    1      -0.227  -1.498   0.104  1.00  0.00      TEST
+ATOM      7  H1  TEST    1      -2.184  -2.394   0.132  1.00  0.00      TEST
+ATOM      8  H2  TEST    1       0.286  -2.447   0.191  1.00  0.00      TEST
+ATOM      9  C7  TEST    1       1.983  -0.259   0.115  1.00  0.00      TEST
+ATOM     10  H3  TEST    1      -2.074   1.888  -0.213  1.00  0.00      TEST
+ATOM     11  N   TEST    1       0.504   2.120  -0.217  1.00  0.00      TEST
+ATOM     12  O1  TEST    1       2.644   0.592   0.688  1.00  0.00      TEST
+ATOM     13  O2  TEST    1       2.638  -1.318  -0.488  1.00  0.00      TEST
+ATOM     14  H4  TEST    1       3.581  -1.199  -0.383  1.00  0.00      TEST
+ATOM     15  H5  TEST    1      -3.385  -0.227  -0.059  1.00  0.00      TEST
+ATOM     16  H6  TEST    1       1.439   2.009   0.129  1.00  0.00      TEST
+ATOM     17  H7  TEST    1      -0.051   2.877   0.116  1.00  0.00      TEST
+ATOM     18  OH2 TIP3    2       0.770  -1.111 -10.892  1.00  0.00      TEST
+ATOM     19  H1  TIP3    2       1.227  -1.936 -11.060  1.00  0.00      TEST
+ATOM     20  H2  TIP3    2       0.747  -1.040  -9.938  1.00  0.00      TEST
+TER      21      TIP3     2
+END
