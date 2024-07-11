@@ -1,0 +1,73 @@
+units lj
+
+atom_style atomic
+
+variable wallSize equal 2
+variable wallRat equal 1/v_wallSize
+variable wallDen equal v_wallRat*v_wallRat*v_wallRat 
+variable sigMix equal (1.0+v_wallSize)/2.0
+variable cutoffB equal 1.0204*v_wallSize
+variable cutoffM equal 1.0204*v_sigMix
+
+processors * * 1 
+
+print ${wallDen}
+
+lattice fcc ${wallDen}
+
+region myBox block 0 6 0 6 -18 18  
+
+create_box 2 myBox
+
+region hardWall1 block 0 5.99 0 5.99 -6 -5
+region hardWall2 block 0 5.99 0 5.99 5 6 
+region hardWall union 2 hardWall1 hardWall2
+create_atoms 2 region hardWall
+
+lattice fcc 1.0  
+
+region liqReg block 0 11.99 0 11.99 -7 7
+
+create_atoms 1 region liqReg
+
+group hw1Grp region hardWall1
+group hw2Grp region hardWall2
+
+pair_style mie/cut 2.5
+
+pair_modify shift yes
+
+pair_coeff 1 1 1.0 1.0 50.0 49.0 1.0204
+pair_coeff 1 2 1.0 ${sigMix} 50.0 49.0 ${cutoffM}
+pair_coeff 2 2 1.0 ${wallSize} 50.0 49.0 ${cutoffB}
+
+mass 1 1.0
+mass 2 1.0
+
+neighbor 2.5 bin
+neigh_modify every 1 delay 0 check yes page 100000
+
+group mobileGrp type 1 
+
+fix momentumFix mobileGrp momentum 1 linear 1 1 1 
+
+fix ensFix mobileGrp nvt temp 1.5 1.5 0.1
+timestep 0.001
+
+velocity mobileGrp create 1.5 100  dist gaussian
+
+fix w1NVE hw1Grp nve
+fix w2NVE hw2Grp nve
+fix pist1EnsStr hw1Grp aveforce  NULL  NULL 26.66666666666666 
+fix pist2EnsStr hw2Grp aveforce  NULL  NULL -26.66666666666666
+fix pist1EnsPrimeStr hw1Grp setforce 0.000000000000000 0.000000000000000  NULL 
+fix pist2EnsPrimeStr hw2Grp setforce 0.000000000000000 0.000000000000000  NULL 
+
+
+thermo 500
+#run 100000
+
+#write_data hard-sphere-conf-melted-X${wallSize}.dat.out 
+
+ 
+
