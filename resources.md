@@ -12,4 +12,4 @@
 - Bootstrapping is a robust technique for estimating uncertainties in calculations without assuming that the distributions are Gaussian or doing messy calculus.
   We didn't quite get to it this time, but [have an earlier i-CoMSE tutorial on this technique](https://github.com/icomse/mcmd_summer_2022/blob/main/bootstrapping/README.md).
 
-- [Signac](https://signac.io/about/) is a tool for managing large numbers of simulations. The notebook shown during the workshop to demonstrate running Signac [is posted here](main/day_five/Advanced_Topics/data_management/).
+- [Signac](https://signac.io/about/) is a tool for managing large numbers of simulations. The notebook shown during the workshop to demonstrate running Signac [is posted here](https://github.com/icomse/7th_workshop_MD/tree/main/day_five/Advanced_Topics/data_management).
