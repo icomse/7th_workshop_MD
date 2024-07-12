@@ -23,4 +23,6 @@
 | Day 5, Session 1    | Advanced Topic Pointers |
 | Day 5, Session 2    | Ask Us Anything |
 
+### Below is a list of resources discussed on the last day
+
 [List of Resources](resources.md)
