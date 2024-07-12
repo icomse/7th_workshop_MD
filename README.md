@@ -1,7 +1,5 @@
 ## Material for the 2024 Fundamentals of MD Summer Workshop
 
-hi!
-
 [PDF of Schedule](7thSchedule.pdf)
 
 ### Workshop Material
@@ -24,3 +22,5 @@ hi!
 | Day 4, Session 4    | Poster Session |
 | Day 5, Session 1    | Advanced Topic Pointers |
 | Day 5, Session 2    | Ask Us Anything |
+
+[List of Resources](resources.md)
